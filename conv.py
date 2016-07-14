@@ -5,7 +5,7 @@ import fontforge
 config = {
     'source_ttf': 'DejaVuSansMono.ttf',
 
-    'firacode_ttf': 'FiraCode-Regular.otf',
+    'firacode_ttf': 'FiraCode-Medium.otf',
 
     'output': {
         'filename': 'DVCode.ttf',
