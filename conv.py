@@ -161,6 +161,10 @@ config = {
             'chars': ['greater', 'greater'],
             'firacode_ligature_name': 'greater_greater.liga',
         },
+        {   # <!--
+            'chars': ['less', 'exclam', 'hyphen', 'hyphen'],
+            'firacode_ligature_name': 'less_exclam_hyphen_hyphen.liga',
+        },
     ]
 }
 
